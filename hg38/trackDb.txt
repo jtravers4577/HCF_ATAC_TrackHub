@@ -7,6 +7,7 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 0,128,128
+priority 1
 
 track F1_DMSO_ATAC
 bigDataUrl https://storage.googleapis.com/atac-bucket/F1_DMSO_ATACseq.bw
@@ -17,6 +18,7 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 0,0,128
+priority 2
 
 track F1_ITF2357_RNA
 bigDataUrl https://storage.googleapis.com/atac-bucket/F1_ITF2357_RNAseq.bw
@@ -27,6 +29,7 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 255,128,0
+priority 3
 
 track F1_ITF2357_ATAC
 bigDataUrl https://storage.googleapis.com/atac-bucket/F1_ITF2357_ATACseq.bw
@@ -37,6 +40,7 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 255,0,0
+priority 4
 
 track F3_DMSO_RNA
 bigDataUrl https://storage.googleapis.com/atac-bucket/F3_DMSO_RNAseq.bw
@@ -47,6 +51,7 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 0,128,128
+priority 5
 
 track F3_DMSO_ATAC
 bigDataUrl https://storage.googleapis.com/atac-bucket/F3_DMSO_ATACseq.bw
@@ -57,6 +62,7 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 0,0,128
+priority 6
 
 track F3_ITF2357_RNA
 bigDataUrl https://storage.googleapis.com/atac-bucket/F3_ITF2357_RNAseq.bw
@@ -67,6 +73,7 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 255,128,0
+priority 7
 
 track F3_ITF2357_ATAC
 bigDataUrl https://storage.googleapis.com/atac-bucket/F3_ITF2357_ATACseq.bw
@@ -77,6 +84,7 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 255,0,0
+priority 8
 
 track F4_DMSO_RNA
 bigDataUrl https://storage.googleapis.com/atac-bucket/F4_DMSO_RNAseq.bw
@@ -87,6 +95,7 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 0,128,128
+priority 9
 
 track F4_DMSO_ATAC
 bigDataUrl https://storage.googleapis.com/atac-bucket/F4_DMSO_ATACseq.bw
@@ -97,6 +106,7 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 0,0,128
+priority 10
 
 track F4_ITF2357_RNA
 bigDataUrl https://storage.googleapis.com/atac-bucket/F4_ITF2357_RNAseq.bw
@@ -107,6 +117,7 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 255,128,0
+priority 11
 
 track F4_ITF2357_ATAC
 bigDataUrl https://storage.googleapis.com/atac-bucket/F4_ITF2357_ATACseq.bw
@@ -117,4 +128,4 @@ visibility full
 autoScale on
 maxHeightPixels 128:40:11
 color 255,0,0
-
+priority 12
