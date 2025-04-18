@@ -7,8 +7,7 @@ shortLabel F1 DMSO RNA
 longLabel RNA-seq signal (F1 DMSO)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:3200
+autoScale on
 maxHeightPixels 128:40:11
 color 0,0,128
 priority 1
@@ -19,8 +18,7 @@ shortLabel F1 DMSO ATAC
 longLabel ATAC-seq signal (F1 DMSO)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:600
+autoScale on
 maxHeightPixels 128:40:11
 color 255,0,0
 priority 2
@@ -34,8 +32,7 @@ shortLabel F1 ITF RNA
 longLabel RNA-seq signal (F1 ITF2357)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:3200
+autoScale on
 maxHeightPixels 128:40:11
 color 0,0,128
 priority 3
@@ -46,8 +43,7 @@ shortLabel F1 ITF ATAC
 longLabel ATAC-seq signal (F1 ITF2357)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:600
+autoScale on
 maxHeightPixels 128:40:11
 color 255,0,0
 priority 4
@@ -61,8 +57,7 @@ shortLabel F3 DMSO RNA
 longLabel RNA-seq signal (F3 DMSO)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:3200
+autoScale on
 maxHeightPixels 128:40:11
 color 0,0,128
 priority 5
@@ -73,8 +68,7 @@ shortLabel F3 DMSO ATAC
 longLabel ATAC-seq signal (F3 DMSO)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:600
+autoScale on
 maxHeightPixels 128:40:11
 color 255,0,0
 priority 6
@@ -88,8 +82,7 @@ shortLabel F3 ITF RNA
 longLabel RNA-seq signal (F3 ITF2357)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:3200
+autoScale on
 maxHeightPixels 128:40:11
 color 0,0,128
 priority 7
@@ -100,8 +93,7 @@ shortLabel F3 ITF ATAC
 longLabel ATAC-seq signal (F3 ITF2357)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:600
+autoScale on
 maxHeightPixels 128:40:11
 color 255,0,0
 priority 8
@@ -115,8 +107,7 @@ shortLabel F4 DMSO RNA
 longLabel RNA-seq signal (F4 DMSO)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:3200
+autoScale on
 maxHeightPixels 128:40:11
 color 0,0,128
 priority 9
@@ -127,8 +118,7 @@ shortLabel F4 DMSO ATAC
 longLabel ATAC-seq signal (F4 DMSO)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:600
+autoScale on
 maxHeightPixels 128:40:11
 color 255,0,0
 priority 10
@@ -142,8 +132,7 @@ shortLabel F4 ITF RNA
 longLabel RNA-seq signal (F4 ITF2357)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:3200
+autoScale on
 maxHeightPixels 128:40:11
 color 0,0,128
 priority 11
@@ -154,8 +143,7 @@ shortLabel F4 ITF ATAC
 longLabel ATAC-seq signal (F4 ITF2357)
 type bigWig
 visibility full
-autoScale off
-viewLimits 0:600
+autoScale on
 maxHeightPixels 128:40:11
 color 255,0,0
 priority 12
